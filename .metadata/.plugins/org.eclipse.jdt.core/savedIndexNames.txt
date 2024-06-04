@@ -1,0 +1,15 @@
+INDEX VERSION 1.134+C:\Java Exercises\Java POO Udemy\.metadata\.plugins\org.eclipse.jdt.core
+415690585.index
+4148873067.index
+397305891.index
+855587086.index
+3195346630.index
+2992357794.index
+1152452237.index
+4085639253.index
+2955627358.index
+758092037.index
+1865797976.index
+2183528539.index
+30129910.index
+3876239287.index
